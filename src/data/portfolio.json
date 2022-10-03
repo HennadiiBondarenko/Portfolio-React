@@ -1,0 +1,46 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/iNote.png",
+      "title": "iNote-app",
+      "description": "React, JSX, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/React-iNote/",
+      "urlCode": "https://github.com/HennadiiBondarenko/React-iNote"
+    },
+    {
+      "cover": "/portfolio/1/sushi.png",
+      "title": "Sushi-shop",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/Sushi-shop/",
+      "urlCode": "https://github.com/HennadiiBondarenko/Sushi-shop"
+    },
+    {
+      "cover": "/portfolio/1/drum.png",
+      "title": "Drum-kit",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/DrumKit/",
+      "urlCode": "https://github.com/HennadiiBondarenko/DrumKit"
+    },
+    {
+      "cover": "/portfolio/1/simon.png",
+      "title": "Simon-game",
+      "description": "jQuery, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/Simon-Game/",
+      "urlCode": "https://github.com/HennadiiBondarenko/Simon-Game"
+    },
+    {
+      "cover": "/portfolio/1/tinDog.png",
+      "title": "tinDog",
+      "description": "HTML, CSS, Bootstrap",
+      "url": "https://hennadiibondarenko.github.io/TinDog/",
+      "urlCode": "https://github.com/HennadiiBondarenko/TinDog"
+    },
+    {
+      "cover": "/portfolio/1/todo.png",
+      "title": "todo-list",
+      "description": "JavaScript, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/ToDo-list/",
+      "urlCode": "https://github.com/HennadiiBondarenko/ToDo-list"
+    }
+  ]
+}
