@@ -62,13 +62,13 @@ const Home = () => {
             <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArray}
-              idx={17}
+              idx={22}
             />
 
             <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArrayDev}
-              idx={18}
+              idx={23}
             />
           </h1>
           <h2>Frontend Web Developer / React / JavaScript </h2>
