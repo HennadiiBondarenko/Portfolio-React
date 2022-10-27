@@ -1,6 +1,14 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/1/Natours.png",
+      "title": "Natours",
+      "description": "SCSS, Web design, HTML, CSS",
+      "url": "https://hennadiibondarenko.github.io/Natours/",
+      "urlCode": "https://github.com/HennadiiBondarenko/Natours"
+    },
+
+    {
       "cover": "/portfolio/1/iNote.png",
       "title": "iNote-app",
       "description": "React, JSX, HTML, CSS",
@@ -28,13 +36,7 @@
       "url": "https://hennadiibondarenko.github.io/Simon-Game/",
       "urlCode": "https://github.com/HennadiiBondarenko/Simon-Game"
     },
-    {
-      "cover": "/portfolio/1/tinDog.png",
-      "title": "tinDog",
-      "description": "HTML, CSS, Bootstrap",
-      "url": "https://hennadiibondarenko.github.io/TinDog/",
-      "urlCode": "https://github.com/HennadiiBondarenko/TinDog"
-    },
+
     {
       "cover": "/portfolio/1/todo.png",
       "title": "todo-list",
