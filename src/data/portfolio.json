@@ -1,6 +1,13 @@
 {
   "portfolio": [
     {
+      "cover": "/portfolio/1/weather.png",
+      "title": "Weather-app",
+      "description": "API, JavaScript, CSS",
+      "url": "https://hennadiibondarenko.github.io/Weather-app/",
+      "urlCode": "https://github.com/HennadiiBondarenko/Weather-app"
+    },
+    {
       "cover": "/portfolio/1/Natours.png",
       "title": "Natours",
       "description": "SCSS, Web design, HTML, CSS",
@@ -21,13 +28,6 @@
       "description": "JavaScript, HTML, CSS",
       "url": "https://hennadiibondarenko.github.io/Sushi-shop/",
       "urlCode": "https://github.com/HennadiiBondarenko/Sushi-shop"
-    },
-    {
-      "cover": "/portfolio/1/drum.png",
-      "title": "Drum-kit",
-      "description": "JavaScript, HTML, CSS",
-      "url": "https://hennadiibondarenko.github.io/DrumKit/",
-      "urlCode": "https://github.com/HennadiiBondarenko/DrumKit"
     },
     {
       "cover": "/portfolio/1/simon.png",
